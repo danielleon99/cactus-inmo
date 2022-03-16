@@ -30,5 +30,9 @@ Route::get('/register', function () {
     return view('register');
 });
 
+Route::get('/todoList/{id}', function () {
+    return view('todoList');
+});
+
 
 

@@ -1,0 +1,4 @@
+export const PROPERTIES = {
+    GET_PROPERTY: "GET_PROPERTY",
+    ADD_SHORE: "ADD_SHORE"
+}
